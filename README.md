@@ -29,5 +29,3 @@ using these intervals allows for linear regression or if the problem is better s
 classification. Analyze potential challenges with this approach.
 10. Model Evaluation: Ensure model generalization by evaluating its performance using
 appropriate metrics. Analyze errors and provide a detailed report.
-11. Suggestions for Improvement: Propose a new idea to improve the performance of the
-discussed models (extra poi
